@@ -1,0 +1,10 @@
+# VERCEL URLs
+# Generated: 2026-11-21 00:15:05
+
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/understanding-neck-pain-and-available-treatment-options.html
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/common-causes-of-lower-back-pain-and-ways-to-manage-it.html
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/how-chiropractic-care-and-physiotherapy-can-complement-each-other.html
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/improving-posture-and-mobility-through-conservative-care.html
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/sitemap.html
+https://rutherfordphysiotherapysportsinjuryclinic.vercel.app/sitemap.xml
